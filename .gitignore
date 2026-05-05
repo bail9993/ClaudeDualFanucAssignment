@@ -1,0 +1,17 @@
+build/*
+install/*
+log/*
+Camera/log/
+Camera/Data/
+tmp/
+.env
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+linuxSDK_*/
+.claude/
+
+# Submitted via Canvas, not GitHub
+CLAUDE.md
+SESSIONS.md
